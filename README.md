@@ -50,4 +50,4 @@ Projects will be added here as they become ready for publication.
 
 ## 🤝 Connect
 
-LinkedIn: Onthatile Kgogo
+[LinkedIn — Onthatile Kgogo](https://www.linkedin.com/in/onthatile-kgogo-94963469)
