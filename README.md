@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Onthatile Kgogo 👋🏽
 
-<!--
-**Onthatile-Kgogo/Onthatile-Kgogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer specialising in C# and .NET, with a strong
+focus on backend engineering, API development, solution design and
+solution architecture.
 
-Here are some ideas to get you started:
+I build enterprise software primarily within banking, financial
+services and insurance, taking solutions from initial requirements
+through architecture, development, integration, testing and delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏽‍💻 What I Work On
+
+- Enterprise APIs and backend services
+- Solution design and application architecture
+- Reusable .NET libraries and NuGet packages
+- Authentication and authorization
+- Data privacy and retention solutions
+- Cloud-ready application modernisation
+- CI/CD and automated delivery
+
+## 🛠️ Technology
+
+**Backend**
+C# · .NET 10 · ASP.NET Core · REST APIs
+
+**Data**
+Dapper · Entity Framework · SQL Server · Oracle · Stored Procedures
+
+**Security**
+OAuth · JWT · Ping Identity
+
+**Cloud & DevOps**
+AWS · Azure · Azure DevOps · CI/CD · YAML
+
+**Engineering**
+Dependency Injection · Middleware · Repository & Service Patterns ·
+Asynchronous Programming · Unit Testing · Integration Testing
+
+## 🚀 Currently
+
+I'm currently expanding my knowledge of AWS cloud architecture and
+AI engineering while continuing to deepen my experience in modern
+.NET and solution architecture.
+
+## 📌 Portfolio
+
+I'm currently building and modernising projects for this portfolio.
+
+Projects will be added here as they become ready for publication.
+
+## 🤝 Connect
+
+LinkedIn: Onthatile Kgogo
